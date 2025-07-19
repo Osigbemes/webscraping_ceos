@@ -1,0 +1,52 @@
+[
+  {
+    "ceo_name": "Warren Buffett",
+    "nicknames": ["Buffett", "Oracle of Omaha", "Warren"],
+    "company": "Berkshire Hathaway"
+  },
+  {
+    "ceo_name": "Tim Cook",
+    "nicknames": ["Cook", "Timothy Cook"],
+    "company": "Apple"
+  },
+  {
+    "ceo_name": "Mary Barra",
+    "nicknames": ["Barra", "Mary Teresa Barra"],
+    "company": "General Motors"
+  },
+  {
+    "ceo_name": "Jamie Dimon",
+    "nicknames": ["Dimon", "Jamie"],
+    "company": "JPMorgan Chase"
+  },
+  {
+    "ceo_name": "Andy Jassy",
+    "nicknames": ["Andrew Jassy", "Jassy", "Andy"],
+    "company": "Amazon"
+  },
+  {
+    "ceo_name": "Darren Woods",
+    "nicknames": ["Woods", "Darren"],
+    "company": "ExxonMobil"
+  },
+  {
+    "ceo_name": "Brian Moynihan",
+    "nicknames": ["Moynihan", "Brian"],
+    "company": "Bank of America"
+  },
+  {
+    "ceo_name": "Sundar Pichai",
+    "nicknames": ["Pichai", "Sundar"],
+    "company": "Alphabet"
+  },
+  {
+    "ceo_name": "Satya Nadella",
+    "nicknames": ["Nadella", "Satya"],
+    "company": "Microsoft"
+  },
+  {
+    "ceo_name": "Doug McMillon",
+    "nicknames": ["McMillon", "Doug", "C. Douglas McMillon"],
+    "company": "Walmart"
+  }
+]
